@@ -10,7 +10,9 @@
 ![image](https://user-images.githubusercontent.com/60763110/152726957-150b0be3-cfac-4bee-806a-2847334e4957.png)
 
 
-### Design
+### 설계
 ![image](https://user-images.githubusercontent.com/60763110/152727212-ce091154-3b4d-4dd5-85e7-2062fce766cd.png)
 ![image](https://user-images.githubusercontent.com/60763110/152727224-d792e11f-c507-46b7-bd85-4d04cf582875.png)
 
+### 테스트
+![image](https://user-images.githubusercontent.com/60763110/152727610-a89ba98f-6cc7-4f65-840b-f6160bf382d7.png)
