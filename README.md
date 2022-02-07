@@ -9,8 +9,10 @@
 ### 요구사항
 ![image](https://user-images.githubusercontent.com/60763110/152726957-150b0be3-cfac-4bee-806a-2847334e4957.png)
 
-
 ### 설계
+#### UI 설계서
+![image](https://user-images.githubusercontent.com/60763110/152727751-1a12f88f-df80-4fd0-ae43-6da4ebb707c2.png)
+
 ![image](https://user-images.githubusercontent.com/60763110/152727212-ce091154-3b4d-4dd5-85e7-2062fce766cd.png)
 ![image](https://user-images.githubusercontent.com/60763110/152727224-d792e11f-c507-46b7-bd85-4d04cf582875.png)
 
