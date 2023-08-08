@@ -9,6 +9,8 @@
 ![image](https://user-images.githubusercontent.com/60763110/152726957-150b0be3-cfac-4bee-806a-2847334e4957.png)
 ### 아키텍쳐
 ![image](https://user-images.githubusercontent.com/60763110/151301987-b0504cf9-2691-4078-baa8-4435baee4c78.png)
+![image](https://github.com/hallymsw/CapstoneDesign_sample/assets/60763110/e4839bc4-ac5e-4a26-bfe9-8ebb10069d1d)
+
 ### 설계
 #### UI 설계서
 ![image](https://user-images.githubusercontent.com/60763110/152727751-1a12f88f-df80-4fd0-ae43-6da4ebb707c2.png)
